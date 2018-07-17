@@ -1,7 +1,7 @@
 <?php 
 
 //$to = "techlysesolutions@gmail.com";
-$to = "davidsoncaleb97@gmail.com";
+$to = "info@gilbertmovingandstorage.com";
 
 $fname = $_POST['element_1_1']; 
 $lname = $_POST['element_1_2']; 
